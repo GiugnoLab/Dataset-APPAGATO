@@ -27,3 +27,36 @@ Physyical interaction networks taken from STRING 10.0 for species Danio rerio, H
 We used 32, 64 and 250 distint labels to randomly annotated the networks. This yielded 9 reference networks.
 Sets of 100 queries were randomly extracted, from each one of the 9 networks, by varying the numer or query nodes in 4, 8, 16, 32, 64, and 128.
 
+<hr />
+
+### License
+APPAGATO is distributed under the MIT license. This means that it is free for both academic and commercial use. 
+Note however that some third party components in APPAGATO require that you reference certain works in scientific publications. 
+You are free to link or use APPAGATO inside source code of your own program. If do so, please reference (cite) APPAGATO and this website. We appreciate bug fixes and would be happy to collaborate for improvements.
+
+[MIT License](https://raw.githubusercontent.com/GiugnoLab/Dataset-APPAGATO/master/LICENSE)
+
+<hr />
+
+### Citation
+    "Bonnici, V., Busato, F., Micale, G., Bombieri, N., Pulvirenti, A., & Giugno, R. (2016).
+     APPAGATO: an APproximate PArallel and stochastic GrAph queryingTOol for biological networks.
+     Bioinformatics, 32(14), 2159-2166."
+[Cited by](https://scholar.google.it/scholar?hl=it&as_sdt=0%2C5&q=appagato+bonnici&btnG=) <br>
+
+<hr />
+
+### References 
+If you have used any of the APPAGATO project software or dataset, please cite the following article:
+  
+    "@article{,
+    title={APPAGATO: an APproximate PArallel and stochastic GrAph querying TOol for biological networks},
+    author={Bonnici, Vincenzo; Busato, Federico; Micale, Giovanni; Bombieri, Nicola; Pulvirenti, Alfredo; Giugno, Rosalba},
+    journal={Bioinformatics},
+    volume={32},
+    number={14},
+    pages={2159--2166},
+    year={2016},
+    publisher={Oxford Univ Press}
+    }"
+
